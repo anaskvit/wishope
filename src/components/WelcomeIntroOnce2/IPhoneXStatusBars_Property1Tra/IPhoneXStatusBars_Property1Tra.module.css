@@ -1,0 +1,33 @@
+.notch.notch {
+  right: 0;
+  bottom: initial;
+  height: 30px;
+}
+.indicator.indicator {
+  right: 71px;
+  left: initial;
+  top: 8px;
+}
+.timeLight.timeLight {
+  left: 21px;
+  top: 12px;
+}
+.root {
+  position: absolute;
+  left: calc(50% - -15px);
+  top: 20px;
+  width: 375px;
+  height: 44px;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+.statusIcons {
+  position: absolute;
+  right: 14px;
+  top: 16px;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 4px;
+}

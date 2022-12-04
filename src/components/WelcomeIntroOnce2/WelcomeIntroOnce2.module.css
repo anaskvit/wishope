@@ -1,0 +1,165 @@
+.iPhoneXStatusBarsStatusbarLigh.iPhoneXStatusBarsStatusbarLigh {
+  left: calc(50% - 7px);
+  top: 0;
+}
+.iPhoneXStatusBarsStatusbarLigh2.iPhoneXStatusBarsStatusbarLigh2 {
+  left: calc(50% - 7px);
+  top: 0;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.statusWorkInProgress {
+  position: absolute;
+  left: 120px;
+  top: 770px;
+  width: 120px;
+  height: 30px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 4px;
+  background-color: #eb5757;
+}
+.workInProgress {
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.background2 {
+  position: absolute;
+  left: -20px;
+  top: 0;
+  width: 405px;
+  height: 823px;
+  background-color: #feffff;
+}
+.wISHOPEACADEMY {
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Open Sans Condensed, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 137px;
+  top: 442px;
+  width: 112px;
+  height: 32px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.wishopeIsDesignedToEliminateTh {
+  position: absolute;
+  left: 24px;
+  top: 474px;
+  width: 334px;
+  height: 178px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 15px;
+  font-family: KoHo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 15px;
+  font-family: KoHo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.socialDistanceAtSchoolBro1 {
+  position: absolute;
+  left: 33px;
+  top: 42px;
+  width: 316px;
+  height: 316px;
+  background-image:/* webpackIgnore: true */ url('assets/socialDistanceAtSchoolBro1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.statusWorkInProgress2 {
+  position: absolute;
+  left: 120px;
+  top: 770px;
+  width: 120px;
+  height: 30px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 4px;
+  background-color: #eb5757;
+}
+.workInProgress2 {
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.logoSon1 {
+  position: absolute;
+  left: 147px;
+  top: 348px;
+  width: 88px;
+  height: 87px;
+  background-image:/* webpackIgnore: true */ url('assets/logoSon1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

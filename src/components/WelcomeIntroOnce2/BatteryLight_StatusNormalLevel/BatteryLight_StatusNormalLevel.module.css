@@ -1,0 +1,42 @@
+.root {
+  position: relative;
+  width: 25px;
+  height: 14px;
+  align-items: flex-start;
+}
+.rectangle23 {
+  position: absolute;
+  left: 24px;
+  top: 5px;
+  width: 1px;
+  max-width: 100%;
+  height: 4px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle21Stroke {
+  position: absolute;
+  left: 0;
+  top: 1px;
+  width: 23px;
+  height: 12px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle20 {
+  position: absolute;
+  left: 2px;
+  top: 50%;
+  width: 19px;
+  height: 8px;
+  border-radius: 1px;
+  background-color: #000;
+  transform: translateY(-50%);
+}
